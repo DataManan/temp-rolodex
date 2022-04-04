@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/temp-rolodex/static/css/main.43135992.css",
+    "main.js": "/temp-rolodex/static/js/main.0738939d.js",
+    "static/js/787.a0871656.chunk.js": "/temp-rolodex/static/js/787.a0871656.chunk.js",
+    "index.html": "/temp-rolodex/index.html",
+    "main.43135992.css.map": "/temp-rolodex/static/css/main.43135992.css.map",
+    "main.0738939d.js.map": "/temp-rolodex/static/js/main.0738939d.js.map",
+    "787.a0871656.chunk.js.map": "/temp-rolodex/static/js/787.a0871656.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43135992.css",
+    "static/js/main.0738939d.js"
+  ]
+}
